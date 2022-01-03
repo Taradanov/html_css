@@ -1,0 +1,36 @@
+ul > li {
+    border: 1px solid black;
+    border-radius: 5px;
+    color: green;
+}
+
+.heading {
+    color: purple;
+    text-align: center;
+}
+
+.back-gray{
+    background-color: gray;
+}
+.input{
+    color: red;
+}
+
+.block{
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: #ccc;
+    background-image: url(https://wonderland.v8.1c.ru/upload/medialibrary/38d/38dde8913c4c10915085df2eca70f393.png);
+    background-size: contain;
+    background-position: center;
+}
+body{
+    font-family: sans-serif;
+}
+.text{
+    color: blue;
+}
+.list{
+    list-style-type: none;
+}
